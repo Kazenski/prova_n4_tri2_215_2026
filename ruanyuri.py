@@ -3,7 +3,6 @@
 # Usa um ciclo for para percorrer esta lista e imprimir apenas as idades de quem tem 18 anos ou mais.
 
 idades = [15, 22, 17, 18, 30, 14, 25]
-
-for idade in idades:
-    if idade >= 18:
-        print(idade)
+for x in idades:
+    if x >= 18:
+        print(x)
